@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rickson Araujo! 👋
 
-Sou desenvolvedor Back-End, com conhecimentos na linguagem Python e suas principais estruturas de dados. Conhecimentos na linguagem Java e suas principais estruturas de dados. Meu novo objetivo é aprender novos Frameworks em Java e novas técnicas de programação.
+Atualmente cursando Ciência da Computação, e em busca de uma oportunidade, para colocar em pratica todos meus conhecimentos, possuo experiência em projetos acadêmicos. Apaixonado por novos desafios, pois sei que isso impulsiona muito meu crescimento, focado em aprender e dá meu melhor para realizar meus sonhos e metas na área de tecnologia! Conhecimentos na linguagem JavaScript e suas principais estruturas de dados, em Frameworks como Express, conhecimentos em ORM com Node.JS e API com Sequelize e MySQL. Também tenho conhecimentos em Java e suas principais estruturas de dados! Mas no momento meu foco total está vinculado ao Node.Js.
 
 Criei este perfil para publicar meus projetos, minhas ideias e meus estudos. 📙
 

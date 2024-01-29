@@ -1,12 +1,11 @@
 ## Hi, I'am Rickson Araujo! 👋
-## Developer Back-End
+## Data Engineer
 
  **About me**
 
 - :office: Software Developer at [Banco do Brasil](https://bancodobrasil.com.br/)
 - :sparkles: A passionate self-taught back-end developer
-- :fire: Currently learning and loving Java development by self
-- :muscle: I’m available for freelancing.
+- :fire: Currently learning and loving the world of Data Engineering
 - 💬 https://www.linkedin.com/in/ricksonaraujo/ 
 
 <div align="center">

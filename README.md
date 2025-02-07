@@ -1,7 +1,6 @@
 ## Hi, I'am Rickson Araujo! 👋
-## Data Engineer
 
- **About me**
+**About me**
 
 - :office: Software Developer
 - :sparkles: A passionate self-taught back-end developer

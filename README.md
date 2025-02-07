@@ -3,9 +3,8 @@
 
  **About me**
 
-- :office: Software Developer at [Banco do Brasil](https://bancodobrasil.com.br/)
+- :office: Software Developer
 - :sparkles: A passionate self-taught back-end developer
-- :fire: Currently learning and loving the world of Data Engineering
 - 💬 https://www.linkedin.com/in/ricksonaraujo/ 
 
 <div align="center">
